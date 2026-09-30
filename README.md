@@ -9,7 +9,7 @@ Quality Assurance Analyst, estudiante de ciberseguridad y programación.
 
 ## Proyectos
 - **AURA – Universo Aromático**: sitio web del curso de Desarrollo Web en Coderhouse.
-- **FALK plataforma de aprendizaje online**: trabajo práctico grupal para la materia de Programación en la Universidad Raúl Scalabrini Ortiz.
+- **FALK Plataforma de aprendizaje online**: trabajo práctico grupal para la materia de Programación en la Universidad Raúl Scalabrini Ortiz.
 
 ## Contacto
 - LinkedIn: [karinacuadra](https://www.linkedin.com/in/karinacuadra)
