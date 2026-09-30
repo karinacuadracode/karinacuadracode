@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Karina
 
-<!--
-**karinacuadracode/karinacuadracode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quality Assurance Analyst, estudiante de ciberseguridad y programación.
 
-Here are some ideas to get you started:
+## Sobre mí
+- Trabajo como QA: diseño, ejecuto casos de prueba y reporto bugs.
+- Estoy cursando el 3er año de la Licenciatura en Ciberseguridad en la Universidad Raúl Scalabrini Ortiz.
+- Completé el curso de Desarrollo Web y continúo con la carrera de Programación en Coderhouse.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- **AURA – Universo Aromático**: sitio web del curso de Desarrollo Web en Coderhouse.
+- **FALK plataforma de aprendizaje online**: trabajo práctico grupal para la materia de Programación en la Universidad Raúl Scalabrini Ortiz.
+
+## Contacto
+- LinkedIn: [karinacuadra](https://www.linkedin.com/in/karinacuadra)
