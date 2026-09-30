@@ -1,6 +1,6 @@
 # Hola, soy Karina
 
-Quality Assurance Analyst, estudiante de ciberseguridad y programación.
+Quality Assurance Analyst | Estudiante de Ciberseguridad y Programación.
 
 ## Sobre mí
 - Trabajo como QA: diseño casos de prueba, los ejecuto y reporto bugs.
