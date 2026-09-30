@@ -3,7 +3,7 @@
 Quality Assurance Analyst | Estudiante de Ciberseguridad y Programación.
 
 ## Sobre mí
-- Trabajo como QA: diseño casos de prueba, los ejecuto y reporto bugs.
+- Aseguramiento de la calidad del software mediante el diseño y ejecución de casos de prueba y el reporte de defectos.
 - Estoy cursando el 3er año de la Licenciatura en Ciberseguridad en la Universidad Raúl Scalabrini Ortiz.
 - Completé el curso de Desarrollo Web y continúo con la carrera de Programación en Coderhouse.
 
@@ -12,4 +12,4 @@ Quality Assurance Analyst | Estudiante de Ciberseguridad y Programación.
 - **FALK - Plataforma de aprendizaje online**: trabajo práctico grupal para la materia de Programación en la Universidad Raúl Scalabrini Ortiz.
 
 ## Contacto
-- LinkedIn: [karinacuadra](https://www.linkedin.com/in/karinacuadra)
+- LinkedIn: [Karina Cuadra](https://www.linkedin.com/in/karinacuadra)
